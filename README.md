@@ -1,1 +1,1 @@
-# courses
+# courses collection
